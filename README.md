@@ -8,7 +8,7 @@
 
 - [Get Started](#get-started)
 
-- [Guide](Guide)
+- [Guide](#guide)
 
 - [Author](#author)
 
