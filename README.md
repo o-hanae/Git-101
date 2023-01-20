@@ -8,7 +8,7 @@
 
 - [Get Started](#getstarted)
 
-- [Guid](Guid)
+- [Guide](Guide)
 
 - [Author](#authior)
 
@@ -30,7 +30,7 @@ you have to get access to the `Git-101` repo, and add you own Infos and update i
 
 - don't use any git GUI (Graphical user interface)
 
-## Guid
+## Guide
 
 ### 1. Fork this repo
 
