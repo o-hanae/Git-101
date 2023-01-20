@@ -24,7 +24,7 @@ you have to get access to the `Git-101` repo, and add you own Infos and update i
 
 - make sure that you have [git](https://git-scm.com/) installed aleady.
 
-- make sure you have SSL linked with your github profile
+- make sure you have SSH linked with your github profile
 
 - use `terminal` and `vim` for this challenge
 
