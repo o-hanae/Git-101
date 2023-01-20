@@ -1,2 +1,2 @@
-# Git-101
-this is a git / github introduction .
+# Git-101 By `ALX-MA`
+
