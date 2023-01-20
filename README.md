@@ -6,11 +6,11 @@
 
 - [Challenge](#challenge)
 
-- [Get Started](#getstarted)
+- [Get Started](#get-started)
 
 - [Guide](Guide)
 
-- [Author](#authior)
+- [Author](#author)
 
 ## Overview
 
@@ -76,6 +76,6 @@ git push origin -u mal-had-ALX-tkhl3na
 
 - will review your changes ASAP and once you did everything right, you will get an email that your changes are merged !
 
-## Autor
+## Author
 
 ### [usef](https://github.com/n53337)
